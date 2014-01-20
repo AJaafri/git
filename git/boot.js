@@ -1,0 +1,1 @@
+﻿﻿addHttpRequestHandler('/calculate','calculate.js','calculate')
