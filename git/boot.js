@@ -1,1 +1,2 @@
-﻿﻿addHttpRequestHandler('/calculate','calculate.js','calculate')
+﻿addHttpRequestHandler('/calculate','calculate.js','calculate')
+//some updates
